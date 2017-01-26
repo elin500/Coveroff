@@ -1,0 +1,24 @@
+#app {
+    margin: 150px;
+}
+
+#cover {
+    max-height: 300px;
+    max-width: 300px;
+}
+
+audio {
+    background: lightgrey;
+}
+
+.list-group-item:hover {
+    background-color: #f0f2f5;
+}
+
+.list-group-item.active {
+    background-color: #f0f2f5;
+}
+
+.list-group-item.active:hover {
+    background-color: #f0f2f5;
+}
